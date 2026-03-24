@@ -34,3 +34,16 @@
 
 ---
 ## exercícios
+
+1. Escreva um programa que imprime a seguinte sequência de informações, cada uma em um linha do terminal: seu nome, sua matrícula no IFRN, cidade e bairro você mora, e sua(s) matéria(s) favorita(s). Utilize um sequência de `print`.
+2. Escreva um programa para mostrar o resultado de cada uma das expressões abaixo:
+   - `3 + 6 - 10`
+   - `2 + 2 * 4`
+   - `5 * 3 - 2 * -5`
+   - `30 - 20 + 3 ** 3`
+   - `15 // 6 * 5 % 3`
+   - `2 ** 5 + 5`
+   - `6 % 10`
+   - `2 ** (1 ** 10 + 3) // 5`
+   - `- 5 * (3 + (- 3 - 8)  + 1) * -1`
+3. Escreva um programa que tem como entrada 4 números reais e imprime a média aritmética desses números. Na impressão, use apenas uma casa decimal à direita do ponto.
