@@ -11,6 +11,26 @@
   4. Aprender a usar operadores matemáticos em python
 
 ---
-## Notas de aula [pdf](/02-Sequenciação.pdf)
+## Notas de aula [slides pdf](/02-Sequenciação.pdf)
 
-1. 
+1. apresenta o `print` para saídas de texto
+2. apresenta o `print` para saídas numéricas
+3. apresenta uma sequência de `print`
+4. exercício de fixação em 2 slides
+5. explica e demonstra `variável` em 4 slides
+6. apresenta as palavras reservadas em python
+7. apresenta como comentar (ignorar) código-fonte em python
+8. apresenta os tipos `int` e `float`
+9. apresenta os operadores aritméticos (`+`, `-`, `/`, `//`, `*`, `**`, `%`) em 4 slides
+10. apresenta precedência de operadores em 2 slides
+11. exercício de fixação em 2 slides
+12. apresenta `string` (texto)
+13. apresenta os operadores `+` e `*` em `string`
+14. apresenta caracteres de escape
+15. apresenta `f-string` em python `f"o bebê tem {anos} anos."`
+16. apresenta `len` para contar caracteres de um texto
+17. apresenta `input`
+18. exercício de fixação
+
+---
+## exercícios
