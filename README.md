@@ -49,8 +49,9 @@
 3. Escreva um programa que tem como entrada 4 números reais e imprime a média aritmética desses números. Na impressão, use apenas uma casa decimal à direita do ponto.
 
 [Lista de exercícios](/lista.md)
-[Respostas da lista de exercícios (Parte 1)](/Lista%20de%20Exercícios/lista-50-1)
-[Respostas da lista de exercícios (Parte 2)](/Lista%20de%20Exercícios/lista-50-2)
-[Respostas da lista de exercícios (Parte 3)](/Lista%20de%20Exercícios/lista-50-3)
-[Respostas da lista de exercícios (Parte 4)](/Lista%20de%20Exercícios/lista-50-4)
-[Respostas da lista de exercícios (Parte 5)](/Lista%20de%20Exercícios/lista-50-5)
+
+Respostas da lista de exercícios: [Parte 1](https://github.com/VoiidHead/04-notas_de_aula-02-python/blob/main/Lista%20de%20Exerc%C3%ADcios/lista50-1.py)
+[Parte 2](https://github.com/VoiidHead/04-notas_de_aula-02-python/blob/main/Lista%20de%20Exerc%C3%ADcios/lista50-2.py)
+[Parte 3](https://github.com/VoiidHead/04-notas_de_aula-02-python/blob/main/Lista%20de%20Exerc%C3%ADcios/lista50-3.py)
+[Parte 4](https://github.com/VoiidHead/04-notas_de_aula-02-python/blob/main/Lista%20de%20Exerc%C3%ADcios/lista50-4.py)
+[Parte 5](https://github.com/VoiidHead/04-notas_de_aula-02-python/blob/main/Lista%20de%20Exerc%C3%ADcios/lista50-5.py)
