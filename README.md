@@ -30,7 +30,7 @@
 15. apresenta `f-string` em python `f"o bebê tem {anos} anos."`
 16. apresenta `len` para contar caracteres de um texto
 17. apresenta `input`
-18. exercício de fixação
+18. [exercício de fixação](/sequenciação.py)
 
 ---
 ## exercícios
@@ -49,3 +49,8 @@
 3. Escreva um programa que tem como entrada 4 números reais e imprime a média aritmética desses números. Na impressão, use apenas uma casa decimal à direita do ponto.
 
 [Lista de exercícios](/lista.md)
+[Respostas da lista de exercícios (Parte 1)](/ListadeExercícios/lista-50-1)
+[Respostas da lista de exercícios (Parte 2)](/ListadeExercícios/lista-50-2)
+[Respostas da lista de exercícios (Parte 3)](/ListadeExercícios/lista-50-3)
+[Respostas da lista de exercícios (Parte 4)](/ListadeExercícios/lista-50-4)
+[Respostas da lista de exercícios (Parte 5)](/ListadeExercícios/lista-50-5)
