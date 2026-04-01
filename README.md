@@ -49,8 +49,8 @@
 3. Escreva um programa que tem como entrada 4 números reais e imprime a média aritmética desses números. Na impressão, use apenas uma casa decimal à direita do ponto.
 
 [Lista de exercícios](/lista.md)
-[Respostas da lista de exercícios (Parte 1)](/ListadeExercícios/lista-50-1)
-[Respostas da lista de exercícios (Parte 2)](/ListadeExercícios/lista-50-2)
-[Respostas da lista de exercícios (Parte 3)](/ListadeExercícios/lista-50-3)
-[Respostas da lista de exercícios (Parte 4)](/ListadeExercícios/lista-50-4)
-[Respostas da lista de exercícios (Parte 5)](/ListadeExercícios/lista-50-5)
+[Respostas da lista de exercícios (Parte 1)](/Lista%20de%20Exercícios/lista-50-1)
+[Respostas da lista de exercícios (Parte 2)](/Lista%20de%20Exercícios/lista-50-2)
+[Respostas da lista de exercícios (Parte 3)](/Lista%20de%20Exercícios/lista-50-3)
+[Respostas da lista de exercícios (Parte 4)](/Lista%20de%20Exercícios/lista-50-4)
+[Respostas da lista de exercícios (Parte 5)](/Lista%20de%20Exercícios/lista-50-5)
